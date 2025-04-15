@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm a Software Engineer with a passion for arts and humanities. 
+I'm a front-end developer with a degree in Advertising and Marketing from UFMG and currently pursuing a Bachelor's in Software Engineering at PUC Minas. I have solid experience with React.js, TypeScript, and the development of high-performance, user-centered interfaces. I've worked directly on the creation and evolution of checkout systems for digital product creators, focusing on scalability, automated testing, and optimizing the digital experience. My multidisciplinary background allows me to combine design, usability, and technology to build efficient and innovative solutions, always with a collaborative mindset and attention to detail.
 
 
 ## 🌐 Socials:
@@ -18,5 +18,3 @@ I'm a Software Engineer with a passion for arts and humanities.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=guourso&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
